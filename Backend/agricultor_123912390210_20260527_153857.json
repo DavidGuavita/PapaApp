@@ -1,0 +1,37 @@
+{
+    "id": 123123213,
+    "cedula": "123912390210",
+    "nombre": "Guapacha jair",
+    "Area": 0.1,
+    "Cultivo": "criolla",
+    "inversion": 1000,
+    "Fecha": "2026-05-09",
+    "Ubicacion_cultivo": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -75.574,
+                    6.244
+                ],
+                [
+                    -75.573,
+                    6.244
+                ],
+                [
+                    -75.573,
+                    6.245
+                ],
+                [
+                    -75.574,
+                    6.245
+                ],
+                [
+                    -75.574,
+                    6.244
+                ]
+            ]
+        ]
+    },
+    "fecha_registro": "2026-05-27 15:38:57"
+}

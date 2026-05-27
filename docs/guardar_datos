@@ -1,0 +1,6 @@
+Guardar datos en una base de datos
+
+
+yo como administrador necesito una API que reciban un json con los datos de un agricultor y los guarde en la base de datos postgresql
+
+1Crear un backend en python
